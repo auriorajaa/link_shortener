@@ -13,7 +13,7 @@ A modern web application for shortening URLs built with Django REST Framework an
 </div>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/bab21253-57e6-4c05-9306-e1cb43658483" width="49%" />
-  <img src="https://github.com/user-attachments/assets/354573d8-1c27-4c91-97ad-ecf79573f2e0" width="49%" />
+  <img src="https://github.com/user-attachments/assets/fb9edb88-7705-42a6-ab71-7992f2e7788e" width="49%" />
 </div>
 
 ## 🚀 Features
